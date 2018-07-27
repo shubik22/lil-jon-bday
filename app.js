@@ -41,9 +41,11 @@ const BIRTHDAYS = {
   '9': {
     '13': ['Niall'],
   },
-  '10': {},
+  '10': {
+    '21': ['Sam', 'Virginia']
+  },
   '11': {
-	'6': ['Aprotim'],
+  	'6': ['Aprotim'],
 	},
   '12': {
     '24': ['Louis'],
