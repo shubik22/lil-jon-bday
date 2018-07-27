@@ -15,29 +15,54 @@ const MONTHS = [
 
 const BIRTHDAYS = {
   '1': {
-    '7': ['Nicholas']
-    '12': ['Zayn']
+    '5': ['Nick'],
+    '7': ['Nicolas'],
+    '12': ['Zayn'],
+    '30': ['Mason'],
   },
   '2': {
-    '1': ['Harry']
+    '1': ['Harry'],
   },
-  '3': {},
-  '4': {},
-  '5': {},
+  '3': {
+    '8': ['DoHyun']
+  },
+  '4': {
+    '7': ['Nathan'],
+  },
+  '5': {
+    '31': ['Hayk', 'Sammy'],
+  },
   '6': {
     '7': ['Kendall']
+    '11': ['Daniel'],
+    '21': ['EllenMelon'],
+    '28': ['Ben'],
+    '30': ['Natalie'],
   },
-  '7': {},
+  '7': {
+    '16': ['Elly']
+  },
   '8': {
+    '1': ['Ray'],
+    '11': ['Pablo'],
     '29': ['Liam']
   },
   '9': {
-    '13': ['Niall']
+    '13': ['Niall'],
   },
-  '10': {},
-  '11': {},
+  '10': {
+    '21': ['Sam', 'Virginia']
+  },
+  '11': {
+  	'6': ['Aprotim'],
+    '25': ['Cinthya'],
+  },
   '12': {
-    '24': ['Louis']
+    '3': ['Olimpia'],
+    '9': ['Trish'],
+    '14': ['Jaida Day Yay']
+    '18': ['Kristina'],
+    '24': ['Louis'],
   }
 };
 
