@@ -33,6 +33,7 @@ const BIRTHDAYS = {
     '31': ['Hayk', 'Sammy'],
   },
   '6': {
+    '7': ['Kendall']
     '11': ['Daniel'],
     '21': ['EllenMelon'],
     '28': ['Ben'],
