@@ -34,6 +34,7 @@ const BIRTHDAYS = {
   '10': {},
   '11': {},
   '12': {
+    '18': ['Kristina'],
     '24': ['Louis']
   }
 };
