@@ -18,6 +18,7 @@ const BIRTHDAYS = {
     '5': ['Nick'],
     '7': ['Nicolas'],
     '12': ['Zayn'],
+    '30': ['Mason'],
   },
   '2': {
     '1': ['Harry'],
