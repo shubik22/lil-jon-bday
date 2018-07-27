@@ -30,6 +30,7 @@ const BIRTHDAYS = {
     '29': ['Liam']
   },
   '9': {
+    '7': {'Emily San Juan'},
     '13': ['Niall']
   },
   '10': {},
