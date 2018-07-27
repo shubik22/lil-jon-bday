@@ -15,7 +15,8 @@ const MONTHS = [
 
 const BIRTHDAYS = {
   '1': {
-    '12': ['Zayn']
+    '12': ['Zayn'],
+    '30': ['Mason']
   },
   '2': {
     '1': ['Harry']
