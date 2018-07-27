@@ -24,7 +24,9 @@ const BIRTHDAYS = {
   '4': {},
   '5': {},
   '6': {},
-  '7': {},
+  '7': {
+    '16': ['Elly']
+  },
   '8': {
     '29': ['Liam']
   },
@@ -49,7 +51,7 @@ const AUDIO_URLS = [
 
 const INCREMENT_MS = 500;
 
-const SERIOUS_JON_URL = 'http://media.hotbirthdays.com/files/1971/01/17/lil-jon-3.jpg';
+const SERIOUS_JON_URL = 'http     ://media.hotbirthdays.com/files/1971/01/17/lil-jon-3.jpg';
 const BIRTHDAY_JON_URL = 'https://images.sk-static.com/images/media/profile_images/artists/370337/huge_avatar';
 
 function App(monthEl, dayEl, msgEl, imgEl) {
