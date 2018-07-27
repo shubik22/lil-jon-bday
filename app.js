@@ -59,6 +59,7 @@ const BIRTHDAYS = {
   '12': {
     '3': ['Olimpia'],
     '9': ['Trish'],
+    '14': ['Jaida Day Yay']
     '18': ['Kristina'],
     '24': ['Louis'],
   }
