@@ -40,6 +40,7 @@ const BIRTHDAYS = {
     '16': ['Elly']
   },
   '8': {
+    '1': ['Ray'],
     '11': ['Pablo'],
     '29': ['Liam']
   },
