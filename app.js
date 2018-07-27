@@ -51,7 +51,8 @@ const BIRTHDAYS = {
   },
   '11': {
   	'6': ['Aprotim'],
-	},
+    '25': ['Cinthya'],
+  },
   '12': {
     '3': ['Olimpia'],
     '9': ['Trish'],
