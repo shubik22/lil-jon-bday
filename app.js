@@ -15,6 +15,7 @@ const MONTHS = [
 
 const BIRTHDAYS = {
   '1': {
+    '7': ['Nicolas']
     '12': ['Zayn']
   },
   '2': {
@@ -34,6 +35,7 @@ const BIRTHDAYS = {
   '10': {},
   '11': {},
   '12': {
+    '3': ['Olimpia'],
     '24': ['Louis']
   }
 };
