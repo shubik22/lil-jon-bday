@@ -15,12 +15,16 @@ const MONTHS = [
 
 const BIRTHDAYS = {
   '1': {
-    '12': ['Zayn']
+    '7': ['Nic Cage'],
+    '12': ['Zayn'],
+    '28': ['J.Cole']
   },
   '2': {
     '1': ['Harry']
   },
-  '3': {},
+  '3': {
+    '1': ['Bieber']
+  },
   '4': {},
   '5': {},
   '6': {},
@@ -29,6 +33,7 @@ const BIRTHDAYS = {
     '29': ['Liam']
   },
   '9': {
+    '1': ["Estefania"],
     '13': ['Niall']
   },
   '10': {},
