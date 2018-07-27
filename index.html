@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lil Jon's Birthday App</title>
+<link rel="stylesheet" type="text/css" href="./style.css">
+<script src="./app.js"></script>
+</head>
+<body>
+  <div id="main">
+    <h1>Lil Jon's Birthday App</h1>
+    <h2><span id="month">...</span> <span id="day">...</span></h2>
+    <h2 id="msg">Just another day...</h2>
+    <div>
+      <img id='jon' src='http://media.hotbirthdays.com/files/1971/01/17/lil-jon-3.jpg'>
+    </div>
+    <br>
+    <div>
+      <button id="run">Run</button>
+      <button id="stop">Stop</button>
+    </div>
+  </div>
+  <script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function() {
+      const monthEl = document.getElementById('month');
+      const dayEl = document.getElementById('day');
+      const runButton = document.getElementById('run');
+      const stopButton = document.getElementById('stop');
+      const msgEl = document.getElementById('msg');
+      const imgEl = document.getElementById('jon');
+
+      const app = new App(monthEl, dayEl, msgEl, imgEl);
+      runButton.addEventListener('click', app.run.bind(app));
+      stopButton.addEventListener('click', app.stop.bind(app));
+    });
+  </script>
+</body>
+</html>
