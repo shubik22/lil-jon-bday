@@ -15,28 +15,38 @@ const MONTHS = [
 
 const BIRTHDAYS = {
   '1': {
-    '12': ['Zayn']
+    '7': ['Nicolas'],
+    '12': ['Zayn'],
   },
   '2': {
-    '1': ['Harry']
+    '1': ['Harry'],
   },
   '3': {},
-  '4': {},
-  '5': {},
+  '4': {
+    '7': ['Nathan'],
+  },
+  '5': {
+    '31': ['Hayk'],
+  },
   '6': {
     '11': ['Daniel']
   },
-  '7': {},
+  '7': {
+    '16': ['Elly']
+  },
   '8': {
+    '11': ['Pablo'],
     '29': ['Liam']
   },
   '9': {
-    '13': ['Niall']
+    '13': ['Niall'],
   },
   '10': {},
-  '11': {},
+  '11': {
+	'6': ['Aprotim'],
+	},
   '12': {
-    '24': ['Louis']
+    '24': ['Louis'],
   }
 };
 
@@ -51,7 +61,7 @@ const AUDIO_URLS = [
 
 const INCREMENT_MS = 500;
 
-const SERIOUS_JON_URL = 'http://media.hotbirthdays.com/files/1971/01/17/lil-jon-3.jpg';
+const SERIOUS_JON_URL = 'http     ://media.hotbirthdays.com/files/1971/01/17/lil-jon-3.jpg';
 const BIRTHDAY_JON_URL = 'https://images.sk-static.com/images/media/profile_images/artists/370337/huge_avatar';
 
 function App(monthEl, dayEl, msgEl, imgEl) {
