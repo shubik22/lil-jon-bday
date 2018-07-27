@@ -29,7 +29,7 @@ const BIRTHDAYS = {
     '7': ['Nathan'],
   },
   '5': {
-    '31': ['Hayk'],
+    '31': ['Hayk', 'Sammy'],
   },
   '6': {
     '11': ['Daniel'],
